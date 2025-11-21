@@ -310,6 +310,5 @@ def run_sampler(n_samples: int = 1000,
 
     return sampler_data
 
-
 if __name__ == "__main__":
     run_sampler()
